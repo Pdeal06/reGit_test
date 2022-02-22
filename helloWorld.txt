@@ -1,1 +1,2 @@
 This is some text. I'm adding it because I was told to. 
+Testing git config change now.
